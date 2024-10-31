@@ -3,6 +3,7 @@
 /dist
 /dev
 package-lock.json
+/gulp/version.json
 readMe.txt
 *.log
 *.ai
