@@ -1,0 +1,12 @@
+/node_modules
+.vscode/
+/dist
+/dev
+package-lock.json
+readMe.txt
+*.log
+*.ai
+*.pdf
+*.psd
+*.rar
+*.zip
